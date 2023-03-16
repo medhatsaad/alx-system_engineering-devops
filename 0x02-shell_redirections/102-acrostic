@@ -1,2 +1,2 @@
 #!/bin/bash
- echo -en $(cut -c1 poem | tr -d '\n')'\n'
+echo -en $(cut -c1 | tr -d '\n')'\n'
